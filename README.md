@@ -1,6 +1,6 @@
 # Monitor de temperatura e umidade com DHT11 e alerta por SMS
 
-Projeto da disciplina de Sistemas Embarcados / Programação Concorrente, executado em uma **Orange Pi PC (Allwinner H3)** com sensor **DHT11**.
+Projeto da disciplina de Sistemas Embarcados, executado em uma **Orange Pi PC (Allwinner H3)** com sensor **DHT11**.
 
 **Equipe:** _Nome 1, Nome 2, Nome 3_
 
